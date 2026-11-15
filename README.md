@@ -1,5 +1,3 @@
-# Machine_Learning-Based_Fertilizer_Recommendation_System
-
 # 🌱 Machine Learning-Based Fertilizer Recommendation System
 
 ### A Data-Driven Approach to Smart and Sustainable Agriculture
